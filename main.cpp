@@ -6,7 +6,7 @@ int main() {
     char nomi[10][20];
     char temp[20];
 
-    iniz(nomi);
+    iniz(nomi)
     iniz(temp);
 
     for(int i=0; i<10; i++){

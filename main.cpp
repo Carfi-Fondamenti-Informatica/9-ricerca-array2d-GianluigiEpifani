@@ -4,7 +4,7 @@ using namespace std;
 
 
 int main() {
-    int a;
+    int a
     char nomi[10][20];
     char temp[20];
 
